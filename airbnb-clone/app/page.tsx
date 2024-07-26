@@ -1,6 +1,5 @@
 export default function Home() {
-  console.log("Home component rendered");
   return (
-  <div>Hello AirBnB!</div>  
+  <div className="text-rose-500 text-2xl">Hello AirBnB!</div>  
   );
 }
